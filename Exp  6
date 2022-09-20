@@ -21,4 +21,3 @@ int main() {
  printf("%d ",fibbonacci(i)); 
  } 
 } 
-https://photos.app.goo.gl/TRanfLjNbBmVDwT96
